@@ -25,13 +25,13 @@ The project includes:
 ## 🔐 Task 1 – Secure Logging
 
 ### Bucket Privacy
-![S3 Private Access](./01-S3-Private-Access.png)
+![S3 Private Access](./01-S3-Bucket-Permissions.png)
 
 ### S3 File Upload
-![S3 Upload](./02-S3-File-Upload.png)
+![S3 Upload](./02-S3-File-Upload-List.png)
 
 ### CloudWatch JSON Logs
-![CloudWatch Logs](./04-CloudWatch-JSON-Proof.png)
+![CloudWatch Logs](./04-CloudWatch-JSON-Event..png)
 
 ---
 
